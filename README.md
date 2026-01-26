@@ -1,6 +1,42 @@
-## नमस्ते (Namaste), I am [Dhruv Jain](https://maddhruv.dev/)
+<h1 align="center">👋 Hi, I'm Ibrahim Jamal</h1>
+<h3 align="center">Flutter Developer | Web Developer | Computer Science Student</h3>
 
-[![YouTube Badge](https://img.shields.io/badge/-@Dhruv%20Jain-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A)](https://www.youtube.com/channel/UCQXt2DMbgcjO5xpAd0cFS8A) [![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/maddhruv) [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-### [maddhruv.dev](https://maddhruv.dev)
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-Ibrahim%20Jamal-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-@IbrahimJamal-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Jamal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 Computer Science Student  
+- 📱 Flutter Developer (Android & iOS)  
+- 🌐 Web Developer (Frontend & Backend basics)  
+- 🛠️ Interested in real-world projects & problem solving  
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+```txt
+Mobile:     Flutter | Dart
+Frontend:   HTML | CSS | JavaScript | React
+Backend:    Node.js | Express
+Database:   MongoDB | MySQL
+Tools:      Git | GitHub | VS Code | Firebase
