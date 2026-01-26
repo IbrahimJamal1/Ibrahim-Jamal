@@ -11,13 +11,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-Ibrahim%20Jamal-c4302b?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-@IbrahimJamal-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="#">
+  <a href="ibrahimgamal932@gmail.com">
     <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Jamal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ibrahimgamal932@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -37,6 +34,5 @@
 ```txt
 Mobile:     Flutter | Dart
 Frontend:   HTML | CSS | JavaScript | React
-Backend:    Node.js | Express
-Database:   MongoDB | MySQL
+Database:   MySQL
 Tools:      Git | GitHub | VS Code | Firebase
