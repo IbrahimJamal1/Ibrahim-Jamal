@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ibrahim Jamal</h1>
-<h3 align="center">Flutter Developer | Web Developer | Computer Science Student</h3>
+<h3 align="center">Flutter Developer | Web Developer | Computer Science </h3>
 
 <p align="center">
   <a href="#">
